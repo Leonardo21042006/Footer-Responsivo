@@ -1,6 +1,6 @@
 # Footer Responsivo
 
-![preview1](./.github/preview1.png)
+![preview](./.github/preview.png)
 
 
 [🔗 Clique aqui para acessar](https://leonardo21042006.github.io/Footer-Responsivo/)
